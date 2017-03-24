@@ -13,6 +13,12 @@ class App extends Component {
         <aside>Aside</aside>
         <footer>Footer</footer>
       </div>
+      <div className='grid1'>
+        <div className='one'>Box 1</div>
+        <div className='two'>Box 2</div>
+        <div className='three'>Box 3</div>
+        <div className='four'>Box 4</div>
+      </div>
     </div>
   }
 }
